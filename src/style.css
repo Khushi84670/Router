@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add global styles below */
+body {
+    background-color: #111;
+    color: #fff;
+}
+h1{
+    font-size: 50px;
+    font-weight: 600;
+    top: 50vh;
+    left: 50vw;
+   transform: translate(-50%, -50%);
+    display: flex;
+
+}
